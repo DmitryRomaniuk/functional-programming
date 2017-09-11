@@ -1,0 +1,23 @@
+{
+  "name": "functional-programming",
+  "version": "1.0.0",
+  "description": "learn",
+  "main": "02 curry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitryRomaniuk/functional-programming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitryRomaniuk/functional-programming/issues"
+  },
+  "homepage": "https://github.com/DmitryRomaniuk/functional-programming#readme",
+  "dependencies": {
+    "ramda": "^0.24.1"
+  }
+}
